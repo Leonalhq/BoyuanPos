@@ -1,6 +1,6 @@
  // ==UserScript==
 // @name              伯远正能量_测试版
-// @namespace         https://github.com/inu1255/soulsign-chrome
+// @namespace         https://github.com/Leonalhq/BoyuanPos
 // @version           1.0.4
 // @author            Leona kun
 // @loginURL          https://weibo.com

@@ -1,8 +1,12 @@
 # 伯远正能量脚本
 
+0.setup
+有chrome浏览器，已登陆【铁粉】微博
+
 1.安装魂签
 
 参考：https://github.com/inu1255/soulsign-chrome
+在：https://github.com/inu1255/soulsign-chrome/releases 下载 【build_v2.4.3.zip】，添加到chrome
 
 2.添加脚本
 
